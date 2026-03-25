@@ -58,7 +58,7 @@ blueprint:
         number:
           min: -20
           max: 50
-          unit_of_measurement: "°C"
+          unit_of_measurement: "°F"
           mode: box
     action_temp_high:
       name: "Action: High Temperature"
@@ -74,7 +74,7 @@ blueprint:
         number:
           min: -20
           max: 50
-          unit_of_measurement: "°C"
+          unit_of_measurement: "°F"
           mode: box
     action_temp_low:
       name: "Action: Low Temperature"
